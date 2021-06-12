@@ -1,3 +1,2 @@
-# manimdoublependulum
-#
-This is an coding experiment attempting using to implement a double pendulum using the Python library manim, a library used by 3blue1brown for his videos.
+# manimpendulum
+This is an coding experiment attempting using to implement the differing types of pendulums including simpled, dampened and double using the Python library manim, a library used by 3blue1brown for his videos. This was done in the summer of my freshman year of college and it was my first introduction to Pythona and object oriented programming, so some of the implemations may not be the most elegeant and optimized piece of code ever written. 
